@@ -44,13 +44,13 @@ jobs:
          raws[easylist_noelemhide]=https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt  
          raws[EasyPrivacy]=https://easylist-downloads.adblockplus.org/easyprivacy.txt
          raws[EasyList]=https://easylist-downloads.adblockplus.org/easylist.txt
-         curl -s ${raws[EasyList]} | ./hostsblock/hostsblock - > hosts
+         curl -s ${raws[EasyList]} | ./domainblock/hostsblock - > hosts
          unset raws[EasyList]
          for raw in "${!raws[@]}"; do
             mkdir -p $raw
             echo $raw
             echo ${raws[$raw]}
-            curl -s ${raws[$raw]} | ./hostsblock/hostsblock - > ./$raw/hosts
+            curl -s ${raws[$raw]} | ./domainblock/hostsblock - > ./$raw/hosts
          done
          mkdir -p EasyListAllCombined
          sort hosts **/hosts | uniq > ./EasyListAllCombined/hosts
@@ -72,7 +72,7 @@ jobs:
                 fi
           done
          done
-         sudo rm -rf hostsblock
+         sudo rm -rf domainblock
          sudo rm -rf easylist-master
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
