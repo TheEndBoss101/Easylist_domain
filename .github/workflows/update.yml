@@ -12,7 +12,7 @@ jobs:
       - name: execute sh script 
         run: |
          shopt -s globstar
-         git clone https://github.com/ProgramComputer/hostsblock.git
+         git clone https://github.com/TheEndBoss101/domainblock.git
          cd **/hostsblock
          make
          cd -
