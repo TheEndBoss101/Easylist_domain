@@ -1,38 +1,38 @@
-0.0.0.0 analytics-consent-manager.azureedge.net
-0.0.0.0 api.consentjs.datagrail.io
-0.0.0.0 appconsent.io
-0.0.0.0 cc.anytrack.de
-0.0.0.0 ccpa-script.psg.nexstardigital.net
-0.0.0.0 ccpa.sp-prod.net
-0.0.0.0 cmp.datasign.co
-0.0.0.0 cmp.gemius.com
-0.0.0.0 cmp.setupcmp.com
-0.0.0.0 consent.dadoslegais.com
-0.0.0.0 consent.digiapi.com
-0.0.0.0 consent.nitrocnct.com
-0.0.0.0 consent.preference-center.com
-0.0.0.0 consent.prointernet.com
-0.0.0.0 consent.standardadmin.org
-0.0.0.0 cookie-bar.conversionbear.com
-0.0.0.0 cookie.consents.app
-0.0.0.0 cookie.pearshealthcyber.com
-0.0.0.0 cookieapi.incomit.dk
-0.0.0.0 cookieapi2.incomit.dk
-0.0.0.0 cookiemanager.onm.de
-0.0.0.0 cookies.innershed.co.uk
-0.0.0.0 cookiesregister.deltacommerce.com
-0.0.0.0 crta.and.co.uk
-0.0.0.0 d2eucw4fxv7nil.cloudfront.net
-0.0.0.0 gdpr-settings.s3.amazonaws.com
-0.0.0.0 gdpr.studybreakmedia.com
-0.0.0.0 macaron-cookie-data.decms.eu
-0.0.0.0 messaging.sourcepoint.com
-0.0.0.0 optanon.blob.core.windows.net
-0.0.0.0 plugin.management
-0.0.0.0 privacy-api-eu1.clym.io
-0.0.0.0 privacy-cdn.sixfifty.com
-0.0.0.0 ressource.gdpr-banner.awsmpsa.com
-0.0.0.0 smarteucookiebanner.upsell-apps.com
-0.0.0.0 sync-transcend-cdn.com
-0.0.0.0 truyoproductionuscdn.truyo.com
-0.0.0.0 widgets.openli.com
+analytics-consent-manager.azureedge.net
+api.consentjs.datagrail.io
+appconsent.io
+cc.anytrack.de
+ccpa-script.psg.nexstardigital.net
+ccpa.sp-prod.net
+cmp.datasign.co
+cmp.gemius.com
+cmp.setupcmp.com
+consent.dadoslegais.com
+consent.digiapi.com
+consent.nitrocnct.com
+consent.preference-center.com
+consent.prointernet.com
+consent.standardadmin.org
+cookie-bar.conversionbear.com
+cookie.consents.app
+cookie.pearshealthcyber.com
+cookieapi.incomit.dk
+cookieapi2.incomit.dk
+cookiemanager.onm.de
+cookies.innershed.co.uk
+cookiesregister.deltacommerce.com
+crta.and.co.uk
+d2eucw4fxv7nil.cloudfront.net
+gdpr-settings.s3.amazonaws.com
+gdpr.studybreakmedia.com
+macaron-cookie-data.decms.eu
+messaging.sourcepoint.com
+optanon.blob.core.windows.net
+plugin.management
+privacy-api-eu1.clym.io
+privacy-cdn.sixfifty.com
+ressource.gdpr-banner.awsmpsa.com
+smarteucookiebanner.upsell-apps.com
+sync-transcend-cdn.com
+truyoproductionuscdn.truyo.com
+widgets.openli.com

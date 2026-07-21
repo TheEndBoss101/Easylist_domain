@@ -1,10 +1,10 @@
-0.0.0.0 google-analytics-cn.com
-0.0.0.0 googleoptimize-cn.com
-0.0.0.0 googletagmanager-cn.com
-0.0.0.0 0.0.0.1
-0.0.0.0 brdtest.com
-0.0.0.0 brdtnet.com
-0.0.0.0 luminati.io
-0.0.0.0 perr.l-agent.me
-0.0.0.0 perr.l-err.biz
-0.0.0.0 fpjscdn.net
+google-analytics-cn.com
+googleoptimize-cn.com
+googletagmanager-cn.com
+0.0.0.1
+brdtest.com
+brdtnet.com
+luminati.io
+perr.l-agent.me
+perr.l-err.biz
+fpjscdn.net
