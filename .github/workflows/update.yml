@@ -44,6 +44,7 @@ jobs:
          raws[easylist_noelemhide]=https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt  
          raws[EasyPrivacy]=https://easylist-downloads.adblockplus.org/easyprivacy.txt
          raws[EasyList]=https://easylist-downloads.adblockplus.org/easylist.txt
+         raws[OSIDBig]=https://big.oisd.nl/
          curl -s ${raws[EasyList]} | ./domainblock/hostsblock - > hosts
          unset raws[EasyList]
          for raw in "${!raws[@]}"; do
