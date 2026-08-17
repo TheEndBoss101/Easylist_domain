@@ -1,4 +1,3 @@
-1558334541.rsc.cdn77.org
 3j0pw4ed7uac-a.akamaihd.net
 3p-geo.yahoo.com
 3p-udc.yahoo.com
@@ -23,9 +22,7 @@ ads-tracking.collectiveaudience.co
 ads-trk.vidible.tv
 adv-analytics-collector.videograph.ai
 affiliate-api.raptive.com
-affiliates.minglematch.com
 aim-tag.hcn.health
-akatracking.esearchvision.com
 alexandria.marfeelcdn.com
 alib.nine.com.au
 amp-error-reporting.appspot.com
@@ -46,7 +43,6 @@ analytics-api.gemcommerce.com
 analytics-api.klickly.com
 analytics-cf.bigcrunch.com
 analytics-cms.whitebeard.me
-analytics-consent-manager-v2-prod.azureedge.net
 analytics-fe.digital-cloud-prem.medallia.com
 analytics-fe.digital-cloud-prem.medallia.eu
 analytics-fe.digital-cloud.medallia.ca
@@ -110,7 +106,6 @@ analytics.gooogol.com
 analytics.groupe-seb.com
 analytics.growthphysics.com
 analytics.gtflixtv.com
-analytics.gvim.mobi
 analytics.iraiser.eu
 analytics.jazel.net
 analytics.jst.ai
@@ -129,12 +124,10 @@ analytics.maileon.com
 analytics.mailmunch.co
 analytics.matchbin.com
 analytics.maxx53.com
-analytics.metriko.app
 analytics.midwesternmac.com
 analytics.mlstatic.com
 analytics.myfidevs.io
 analytics.myfinance.com
-analytics.netronline.dev
 analytics.newscred.com
 analytics.onlyonlinemarketing.com
 analytics.optilead.co.uk
@@ -256,7 +249,6 @@ beacon.searchspring.io
 beacon.securestudies.com
 beacon.sftoaa.com
 beacon.sojern.com
-beacon.statful.com
 beacon.webpresence.work
 beacons.mediamelon.com
 beam.mjhlifesciences.com
@@ -278,7 +270,6 @@ bs.yandex.ru
 buffet.identityservices.io
 bundle.9gtb.com
 bundle.dyn-rev.app
-bundle.ppas.monster
 bzr.openai.com
 bzrcdn.openai.com
 c.albss.com
@@ -323,8 +314,6 @@ chanalytics.merchantadvantage.com
 cimage.adobe.com
 ck.connatix.com
 click.appinthestore.com
-click.rypr.ru
-click360v2-ingest.azurewebsites.net
 clicks.dealer.com
 clicks.tyuwq.com
 clicktracker.iscan.nl
@@ -336,7 +325,6 @@ clouderrorreporting.googleapis.com
 cloudfront-labs.amazonaws.com
 cloudmetrics.xenforo.com
 cltgtstor001.blob.core.windows.net
-cnt.3dmy.net
 cod.bitrec.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
@@ -428,7 +416,6 @@ d.lilstts.com
 d.shareaholic.com
 d2gt2ux04o03l1.cloudfront.net
 dash.getsitecontrol.com
-data.armexfort.uk
 data.circulate.com
 data.digitalks.az
 data.eetech.com
@@ -437,7 +424,6 @@ data.embeddables.com
 data.gosquared.com
 data.hailuo.ai
 data.jaytuckwell.com
-data.minute.ly
 data.nexxt.com
 data.queryly.com
 data.replo.app
@@ -624,7 +610,6 @@ hits.getelevar.com
 hits.gokwik.co
 hits.informer.com
 hktracker.hankookilbo.com
-hydro-ma-proxy.akamaized.net
 i.compendium.com
 i.viafoura.co
 iabusprivacy.pmc.com
@@ -736,7 +721,6 @@ metrics-logger.spot.im
 metrics.api.drift.com
 metrics.beyondwords.io
 metrics.brightcove.com
-metrics.ctvdigital.net
 metrics.doppiocdn.com
 metrics.doppiostreams.com
 metrics.futureplc.engineering
@@ -869,7 +853,6 @@ pixels.zalify.com
 pl.connatix.com
 pla.fwdcdn.com
 platform.iteratehq.com
-plausible.flamekiller.org
 plausible.server.hakai.app
 play.adtonos.com
 player-metrics.instaread.co
@@ -933,7 +916,6 @@ reports.sdiapi.com
 res.rbl.ms
 rest.wildstar-online.com
 retargeting.newsmanapp.com
-rg-3tn.pages.dev
 rp.mustreadnew.com
 rs.sinajs.cn
 rt.flix360.com
@@ -974,7 +956,6 @@ sdtagging.azureedge.net
 secure-stats.pingdom.com
 secure.merchantadvantage.com
 seg.sharethis.com
-service.trustpid.com
 session.timecommerce.net
 sessions.embeddables.com
 sftrack.searchforce.net
@@ -1046,7 +1027,6 @@ stats.itweb.co.za
 stats.jkdesa.com
 stats.kaltura.com
 stats.ksearchnet.com
-stats.lmofficial.to
 stats.locallabs.com
 stats.lotlinx.com
 stats.mituyu.com
@@ -1064,19 +1044,16 @@ stats.prebytes.com
 stats.pusher.com
 stats.pushloop.io
 stats.sa-as.com
-stats.sawlive.tv
 stats.screenresolution.org
 stats.senty.com.au
 stats.shopify.com
 stats.slashed.cloud
 stats.smartclip.net
 stats.spreadsimple.com
-stats.tiktoker.win
 stats.topofblogs.com
 stats.traffective.cloud
 stats.uscreen.io
 stats.varrando.com
-stats.velarium.cc
 stats.viddler.com
 stats.vodlix.com
 stats.webs.com
@@ -1240,7 +1217,6 @@ track.pricespider.com
 track.qoof.com
 track.searchignite.com
 track.searchiq.co
-track.shop2market.com
 track.sitetag.us
 track.social.com
 track.strife.com
@@ -1271,13 +1247,11 @@ tracker.gleanview.com
 tracker.hdtvcloud.com
 tracker.icerocket.com
 tracker.idocdn.com
-tracker.jkstremum.xyz
 tracker.keywordintent.com
 tracker.marinsoftware.com
 tracker.metricool.com
 tracker.mrpfd.com
 tracker.myth.dev
-tracker.myyschool.xyz
 tracker.nitropay.com
 tracker.nocodelytics.com
 tracker.personizely.net
@@ -1285,7 +1259,6 @@ tracker.prod.ams3.k8s.hyperia.sk
 tracker.services.vaix.ai
 tracker.smartframe.io
 tracker.softcube.com
-tracker.ssl0d.com
 tracker.timesgroup.com
 tracker.tubecj.com
 tracker.unbxdapi.com
@@ -1312,7 +1285,6 @@ tracking.cerdmann.com
 tracking.chilipiper.com
 tracking.dealeranalytics.com
 tracking.diginetica.net
-tracking.drum.io
 tracking.dsmmadvantage.com
 tracking.fanbridge.com
 tracking.feedperfect.com
@@ -1412,7 +1384,6 @@ w4o7aea80ss3-a.akamaihd.net
 wa.appsflyersdk.com
 watchtower.graindata.com
 wco.crownpeak.com
-wds.weqs.me
 web-beacon.starii-rover.com
 web-tracker.smsbump.com
 web-vitals-script.leaderint.workers.dev
@@ -1597,9 +1568,7 @@ dzgwautxzdtn9.cloudfront.net
 anal.sataniskwijt.be
 analytics.code.dccouncil.gov
 count.vidsrc.pro
-goat.hepicgamerz.com
 goat.nhimmeo.cf
-goat.skeetstats.xyz
 goat.tailspace.net
 st.mapleranks.com
 stats.boringproxy.io
