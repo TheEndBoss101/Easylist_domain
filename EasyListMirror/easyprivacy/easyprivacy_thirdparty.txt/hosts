@@ -62,6 +62,7 @@ analytics.adobe.io
 analytics.agoda.com
 analytics.aimtell.com
 analytics.algolia.com
+analytics.alvarezrosa.com
 analytics.amakings.com
 analytics.api.justeattakeaway.com
 analytics.apnewsregistry.com
@@ -74,6 +75,7 @@ analytics.bestreviews.com
 analytics.bhaskarsaikia.in
 analytics.bitrix.info
 analytics.bomiv.com
+analytics.bucks.helixo.co
 analytics.carambo.la
 analytics.carbaselive.com
 analytics.chegg.com
@@ -317,6 +319,7 @@ cdn.prod.euid.eu
 cdn.ravm.tv
 cdn.seonintelligence.com
 cdn.usefathom.com
+cdn.visits.dqapis.com
 cdns.brsrvr.com
 cf-pixelfront-analytics.widencdn.net
 cf.api.instant.one
@@ -476,6 +479,7 @@ ecomm.events
 ecommerce-events.adscale.com
 ecommstats.s3.amazonaws.com
 edge.venatusmedia.com
+edge.wingify.net
 eel.transistor.fm
 enc-90128738.b-cdn.net
 ep.jamx.ai
@@ -781,6 +785,7 @@ native-ads-events-api.c4s-rd.services
 native-ads-events-api2.c4s-rd.services
 neocounter.neoworx-blog-tools.net
 netlify-rum.netlify.app
+nexus.firecrown.com
 ninja.onap.io
 nitrous-analytics.s3.amazonaws.com
 noa.yahoo.com
@@ -976,6 +981,7 @@ rum.perfops.net
 rum.uptime.com
 rumstat.cdnvideo.ru
 rw.marchex.io
+rybbit-analytics.livecounts.io
 rybbit.sg-app.com
 s.autopilotapp.com
 s.axon.ai
@@ -1172,6 +1178,7 @@ tag.aticdn.net
 tag.atom.gamedistribution.com
 tag.aumago.com
 tag.brandcdn.com
+tag.decentriq.com
 tag.digops.sincro.io
 tag.elevaate.io
 tag.flagship.io
