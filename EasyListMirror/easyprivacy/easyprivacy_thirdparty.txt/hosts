@@ -513,6 +513,7 @@ event.api.drift.com
 event.api.instant.one
 event.collector.scopely.io
 event.instiengage.com
+event.prod.asgard.hullabalook.com
 event.syftdata.com
 event.syndigo.cloud
 event.webcollage.net
@@ -598,6 +599,7 @@ ga.webdigi.co.uk
 galileotelemetry.tencent.com
 ganon.yahoo.com
 gateway.foresee.com
+gator.volces.com
 gcp.fasthorse.workers.dev
 genesis.malwarebytes.com
 geo.bdg.com
@@ -791,6 +793,7 @@ netlify-rum.netlify.app
 nexus.firecrown.com
 ninja.onap.io
 nitrous-analytics.s3.amazonaws.com
+nlog.instajob.ai
 noa.yahoo.com
 noflake-aggregator-http.narvar.com
 nol.yahoo.com
@@ -931,6 +934,7 @@ public.profitwell.com
 pulse.ecmapps.com
 pulse.shopflo.com
 pv-track.pxtrkapp.com
+pv-track.venatus.com
 px.marchex.io
 px.mountain.com
 px.owneriq.net
@@ -1008,6 +1012,7 @@ session.bugsnag.kindle.amazon.dev
 session.timecommerce.net
 sessions.embeddables.com
 sftrack.searchforce.net
+sg-fp.apitd.net
 sgali-mcs.byteoversea.com
 sgm-w.jd.com
 shared.65twenty.com
